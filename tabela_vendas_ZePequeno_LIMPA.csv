@@ -1,0 +1,735 @@
+﻿Data,Região,Canal,Produto,Valor_Venda
+2022-01-01,Blumenau,Loja Física,Paçoca,1692.0
+2022-01-01,Blumenau,Loja Física,Rolhas,2058.3
+2022-01-01,Florianópolis,E-commerce,Paçoca,1427.0
+2022-01-01,Florianópolis,E-commerce,Rolhas,1986.9
+2022-01-01,Joinville,E-commerce,Paçoca,1579.0
+2022-01-01,Joinville,E-commerce,Rolhas,1934.75
+2022-01-01,Joinville,Loja Física,Paçoca,1825.5
+2022-01-01,Joinville,Loja Física,Rolhas,2760.0
+2022-01-01,Joinville,Loja Física,Rolhas,2143.0
+2022-02-01,Blumenau,Loja Física,Paçoca,1746.8
+2022-02-01,Blumenau,Loja Física,Rolhas,2129.0
+2022-02-01,Florianópolis,E-commerce,Paçoca,1495.0
+2022-02-01,Florianópolis,E-commerce,Rolhas,2031.6
+2022-02-01,Joinville,E-commerce,Paçoca,1638.25
+2022-02-01,Joinville,E-commerce,Rolhas,2075.0
+2022-02-01,Joinville,Loja Física,Paçoca,1913.0
+2022-02-01,Joinville,Loja Física,Rolhas,2237.4
+2022-03-01,Blumenau,Loja Física,Paçoca,1812.0
+2022-03-01,Blumenau,Loja Física,Rolhas,2197.75
+2022-03-01,Florianópolis,E-commerce,Paçoca,1539.5
+2022-03-01,Florianópolis,E-commerce,Rolhas,2098.0
+2022-03-01,Joinville,E-commerce,Paçoca,1684.4
+2022-03-01,Joinville,E-commerce,Rolhas,2142.0
+2022-03-01,Joinville,Loja Física,Paçoca,1978.0
+2022-03-01,Joinville,Loja Física,Rolhas,2315.9
+2022-04-01,Blumenau,E-commerce,Paçoca,1950.0
+2022-04-01,Blumenau,Loja Física,Paçoca,1865.0
+2022-04-01,Blumenau,Loja Física,Rolhas,2264.4
+2022-04-01,Florianópolis,E-commerce,Paçoca,1598.0
+2022-04-01,Florianópolis,E-commerce,Rolhas,2156.1
+2022-04-01,Joinville,E-commerce,Paçoca,1749.0
+2022-04-01,Joinville,E-commerce,Rolhas,2213.8
+2022-04-01,Joinville,Loja Física,Paçoca,2041.2
+2022-04-01,Joinville,Loja Física,Rolhas,2386.0
+2022-05-01,Blumenau,Loja Física,Paçoca,1923.5
+2022-05-01,Blumenau,Loja Física,Rolhas,2338.0
+2022-05-01,Florianópolis,E-commerce,Paçoca,1651.0
+2022-05-01,Florianópolis,E-commerce,Rolhas,2219.4
+2022-05-01,Joinville,E-commerce,Paçoca,1812.7
+2022-05-01,Joinville,E-commerce,Rolhas,2295.0
+2022-05-01,Joinville,Loja Física,Paçoca,2117.0
+2022-05-01,Joinville,Loja Física,Rolhas,2452.35
+2022-06-01,Blumenau,Loja Física,Paçoca,1989.0
+2022-06-01,Blumenau,Loja Física,Rolhas,2417.8
+2022-06-01,Florianópolis,E-commerce,Paçoca,1715.25
+2022-06-01,Florianópolis,E-commerce,Rolhas,2284.0
+2022-06-01,Joinville,E-commerce,Paçoca,1876.0
+2022-06-01,Joinville,E-commerce,Rolhas,2361.2
+2022-06-01,Joinville,Loja Física,Paçoca,2184.6
+2022-06-01,Joinville,Loja Física,Rolhas,2527.0
+2022-07-01,Blumenau,E-commerce,Paçoca,1950.0
+2022-07-01,Blumenau,Loja Física,Paçoca,2048.4
+2022-07-01,Blumenau,Loja Física,Rolhas,2489.0
+2022-07-01,Florianópolis,E-commerce,Paçoca,1769.0
+2022-07-01,Florianópolis,E-commerce,Rolhas,2337.5
+2022-07-01,Joinville,E-commerce,Paçoca,1938.9
+2022-07-01,Joinville,E-commerce,Rolhas,2436.0
+2022-07-01,Joinville,Loja Física,Paçoca,2243.0
+2022-07-01,Joinville,Loja Física,Rolhas,2593.1
+2022-08-01,Blumenau,Loja Física,Paçoca,2115.0
+2022-08-01,Blumenau,Loja Física,Rolhas,2556.6
+2022-08-01,Florianópolis,E-commerce,Paçoca,1832.4
+2022-08-01,Florianópolis,E-commerce,Rolhas,2396.0
+2022-08-01,Joinville,E-commerce,Paçoca,1997.0
+2022-08-01,Joinville,E-commerce,Rolhas,2498.3
+2022-08-01,Joinville,Loja Física,Paçoca,2312.75
+2022-08-01,Joinville,Loja Física,Rolhas,2661.0
+2022-09-01,Blumenau,Loja Física,Paçoca,2178.35
+2022-09-01,Blumenau,Loja Física,Rolhas,2623.0
+2022-09-01,Florianópolis,E-commerce,Paçoca,1897.0
+2022-09-01,Florianópolis,E-commerce,Rolhas,2461.9
+2022-09-01,Joinville,E-commerce,Paçoca,2054.1
+2022-09-01,Joinville,E-commerce,Rolhas,2569.0
+2022-09-01,Joinville,Loja Física,Paçoca,2379.0
+2022-09-01,Joinville,Loja Física,Rolhas,2728.8
+2022-10-01,Blumenau,Loja Física,Paçoca,1960.0
+2022-10-01,Blumenau,Loja Física,Paçoca,2239.0
+2022-10-01,Blumenau,Loja Física,Rolhas,2689.5
+2022-10-01,Florianópolis,E-commerce,Paçoca,1958.6
+2022-10-01,Florianópolis,E-commerce,Rolhas,2524.0
+2022-10-01,Joinville,E-commerce,Paçoca,2112.0
+2022-10-01,Joinville,E-commerce,Rolhas,2100.0
+2022-10-01,Joinville,E-commerce,Rolhas,2637.7
+2022-10-01,Joinville,Loja Física,Paçoca,2446.2
+2022-10-01,Joinville,Loja Física,Rolhas,2795.0
+2022-11-01,Blumenau,Loja Física,Paçoca,2297.8
+2022-11-01,Blumenau,Loja Física,Rolhas,2754.0
+2022-11-01,Florianópolis,E-commerce,Paçoca,2019.0
+2022-11-01,Florianópolis,E-commerce,Rolhas,2593.25
+2022-11-01,Joinville,E-commerce,Paçoca,2181.3
+2022-11-01,Joinville,E-commerce,Rolhas,2712.0
+2022-11-01,Joinville,Loja Física,Paçoca,2513.0
+2022-11-01,Joinville,Loja Física,Rolhas,2864.4
+2022-12-01,Blumenau,Loja Física,Paçoca,2364.0
+2022-12-01,Blumenau,Loja Física,Rolhas,2827.6
+2022-12-01,Florianópolis,E-commerce,Paçoca,2083.4
+2022-12-01,Florianópolis,E-commerce,Rolhas,2665.0
+2022-12-01,Joinville,E-commerce,Paçoca,2249.0
+2022-12-01,Joinville,E-commerce,Rolhas,2786.8
+2022-12-01,Joinville,Loja Física,Paçoca,2584.5
+2022-12-01,Joinville,Loja Física,Rolhas,2931.0
+2023-01-01,Blumenau,E-commerce,Paçoca,1297.0
+2023-01-01,Blumenau,E-commerce,Paçoca,2154.0
+2023-01-01,Blumenau,E-commerce,Rolhas,1415.0
+2023-01-01,Blumenau,E-commerce,Rolhas,2316.0
+2023-01-01,Blumenau,Loja Física,Paçoca,1638.0
+2023-01-01,Blumenau,Loja Física,Paçoca,1942.0
+2023-01-01,Blumenau,Loja Física,Rolhas,1827.0
+2023-01-01,Blumenau,Loja Física,Rolhas,2389.0
+2023-01-01,Florianópolis,E-commerce,Paçoca,1389.0
+2023-01-01,Florianópolis,E-commerce,Paçoca,2227.0
+2023-01-01,Florianópolis,E-commerce,Rolhas,1523.0
+2023-01-01,Florianópolis,E-commerce,Rolhas,2431.0
+2023-01-01,Florianópolis,Loja Física,Paçoca,1756.0
+2023-01-01,Florianópolis,Loja Física,Paçoca,2093.0
+2023-01-01,Florianópolis,Loja Física,Rolhas,1974.0
+2023-01-01,Florianópolis,Loja Física,Rolhas,2468.0
+2023-01-01,Joinville,E-commerce,Paçoca,1543.0
+2023-01-01,Joinville,E-commerce,Paçoca,2019.0
+2023-01-01,Joinville,E-commerce,Rolhas,1368.0
+2023-01-01,Joinville,E-commerce,Rolhas,2574.0
+2023-01-01,Joinville,Loja Física,Paçoca,1875.0
+2023-01-01,Joinville,Loja Física,Paçoca,2231.0
+2023-01-01,Joinville,Loja Física,Paçoca,1452.0
+2023-01-01,Joinville,Loja Física,Paçoca,2680.0
+2023-01-01,Joinville,Loja Física,Rolhas,1934.0
+2023-01-01,Joinville,Loja Física,Rolhas,2148.0
+2023-01-01,Joinville,Loja Física,Rolhas,1726.0
+2023-01-01,Joinville,Loja Física,Rolhas,2395.0
+2023-02-01,Blumenau,E-commerce,Paçoca,1348.0
+2023-02-01,Blumenau,E-commerce,Paçoca,2117.0
+2023-02-01,Blumenau,E-commerce,Rolhas,1492.0
+2023-02-01,Blumenau,E-commerce,Rolhas,2279.0
+2023-02-01,Blumenau,Loja Física,Paçoca,1589.0
+2023-02-01,Blumenau,Loja Física,Paçoca,2046.0
+2023-02-01,Blumenau,Loja Física,Rolhas,1775.0
+2023-02-01,Blumenau,Loja Física,Rolhas,2360.0
+2023-02-01,Florianópolis,E-commerce,Paçoca,1411.0
+2023-02-01,Florianópolis,E-commerce,Paçoca,2258.0
+2023-02-01,Florianópolis,E-commerce,Rolhas,1604.0
+2023-02-01,Florianópolis,E-commerce,Rolhas,2387.0
+2023-02-01,Florianópolis,Loja Física,Paçoca,1693.0
+2023-02-01,Florianópolis,Loja Física,Paçoca,2184.0
+2023-02-01,Florianópolis,Loja Física,Rolhas,1907.0
+2023-02-01,Florianópolis,Loja Física,Rolhas,2441.0
+2023-02-01,Joinville,E-commerce,Paçoca,1432.0
+2023-02-01,Joinville,E-commerce,Paçoca,2198.0
+2023-02-01,Joinville,E-commerce,Rolhas,1697.0
+2023-02-01,Joinville,E-commerce,Rolhas,2546.0
+2023-02-01,Joinville,Loja Física,Paçoca,1924.0
+2023-02-01,Joinville,Loja Física,Paçoca,2376.0
+2023-02-01,Joinville,Loja Física,Rolhas,1861.0
+2023-02-01,Joinville,Loja Física,Rolhas,2487.0
+2023-02-01,São Paulo,Loja Física,Paçoca,1430.0
+2023-03-01,Blumenau,E-commerce,Paçoca,1395.0
+2023-03-01,Blumenau,E-commerce,Paçoca,2189.0
+2023-03-01,Blumenau,E-commerce,Rolhas,1537.0
+2023-03-01,Blumenau,E-commerce,Rolhas,2338.0
+2023-03-01,Blumenau,Loja Física,Paçoca,1672.0
+2023-03-01,Blumenau,Loja Física,Paçoca,2146.0
+2023-03-01,Blumenau,Loja Física,Rolhas,1813.0
+2023-03-01,Blumenau,Loja Física,Rolhas,2412.0
+2023-03-01,Florianópolis,E-commerce,Paçoca,1476.0
+2023-03-01,Florianópolis,E-commerce,Paçoca,2310.0
+2023-03-01,Florianópolis,E-commerce,Rolhas,1638.0
+2023-03-01,Florianópolis,E-commerce,Rolhas,2429.0
+2023-03-01,Florianópolis,Loja Física,Paçoca,1765.0
+2023-03-01,Florianópolis,Loja Física,Paçoca,2264.0
+2023-03-01,Florianópolis,Loja Física,Rolhas,1958.0
+2023-03-01,Florianópolis,Loja Física,Rolhas,2493.0
+2023-03-01,Joinville,E-commerce,Paçoca,1527.0
+2023-03-01,Joinville,E-commerce,Paçoca,2280.0
+2023-03-01,Joinville,E-commerce,Rolhas,1723.0
+2023-03-01,Joinville,E-commerce,Rolhas,2627.0
+2023-03-01,Joinville,Loja Física,Paçoca,2017.0
+2023-03-01,Joinville,Loja Física,Paçoca,2479.0
+2023-03-01,Joinville,Loja Física,Rolhas,1892.0
+2023-03-01,Joinville,Loja Física,Rolhas,2553.0
+2023-04-01,Blumenau,E-commerce,Paçoca,1451.0
+2023-04-01,Blumenau,E-commerce,Paçoca,2253.0
+2023-04-01,Blumenau,E-commerce,Rolhas,1617.0
+2023-04-01,Blumenau,E-commerce,Rolhas,2394.0
+2023-04-01,Blumenau,Loja Física,Paçoca,1714.0
+2023-04-01,Blumenau,Loja Física,Paçoca,2219.0
+2023-04-01,Blumenau,Loja Física,Rolhas,1876.0
+2023-04-01,Blumenau,Loja Física,Rolhas,2478.0
+2023-04-01,Florianópolis,E-commerce,Paçoca,1519.0
+2023-04-01,Florianópolis,E-commerce,Paçoca,2375.0
+2023-04-01,Florianópolis,E-commerce,Rolhas,1683.0
+2023-04-01,Florianópolis,E-commerce,Rolhas,2476.0
+2023-04-01,Florianópolis,Loja Física,Paçoca,1832.0
+2023-04-01,Florianópolis,Loja Física,Paçoca,2327.0
+2023-04-01,Florianópolis,Loja Física,Rolhas,1998.0
+2023-04-01,Florianópolis,Loja Física,Rolhas,2582.0
+2023-04-01,Joinville,E-commerce,Paçoca,1592.0
+2023-04-01,Joinville,E-commerce,Paçoca,2368.0
+2023-04-01,Joinville,E-commerce,Rolhas,1781.0
+2023-04-01,Joinville,E-commerce,Rolhas,2715.0
+2023-04-01,Joinville,Loja Física,Paçoca,2086.0
+2023-04-01,Joinville,Loja Física,Paçoca,2591.0
+2023-04-01,Joinville,Loja Física,Rolhas,1939.0
+2023-04-01,Joinville,Loja Física,Rolhas,2634.0
+2023-05-01,Blumenau,E-commerce,Paçoca,1498.0
+2023-05-01,Blumenau,E-commerce,Paçoca,2314.0
+2023-05-01,Blumenau,E-commerce,Rolhas,1661.0
+2023-05-01,Blumenau,E-commerce,Rolhas,2446.0
+2023-05-01,Blumenau,Loja Física,Paçoca,1768.0
+2023-05-01,Blumenau,Loja Física,Paçoca,2283.0
+2023-05-01,Blumenau,Loja Física,Paçoca,1870.0
+2023-05-01,Blumenau,Loja Física,Rolhas,1915.0
+2023-05-01,Blumenau,Loja Física,Rolhas,2537.0
+2023-05-01,Florianópolis,E-commerce,Paçoca,1562.0
+2023-05-01,Florianópolis,E-commerce,Paçoca,2439.0
+2023-05-01,Florianópolis,E-commerce,Rolhas,1711.0
+2023-05-01,Florianópolis,E-commerce,Rolhas,2523.0
+2023-05-01,Florianópolis,Loja Física,Paçoca,1896.0
+2023-05-01,Florianópolis,Loja Física,Paçoca,2391.0
+2023-05-01,Florianópolis,Loja Física,Rolhas,2034.0
+2023-05-01,Florianópolis,Loja Física,Rolhas,2629.0
+2023-05-01,Joinville,E-commerce,Paçoca,1635.0
+2023-05-01,Joinville,E-commerce,Paçoca,2422.0
+2023-05-01,Joinville,E-commerce,Rolhas,1819.0
+2023-05-01,Joinville,E-commerce,Rolhas,2786.0
+2023-05-01,Joinville,Loja Física,Paçoca,2149.0
+2023-05-01,Joinville,Loja Física,Paçoca,2663.0
+2023-05-01,Joinville,Loja Física,Rolhas,1972.0
+2023-05-01,Joinville,Loja Física,Rolhas,2697.0
+2023-06-01,Blumenau,E-commerce,Paçoca,1547.0
+2023-06-01,Blumenau,E-commerce,Paçoca,2378.0
+2023-06-01,Blumenau,E-commerce,Rolhas,1729.0
+2023-06-01,Blumenau,E-commerce,Rolhas,2498.0
+2023-06-01,Blumenau,Loja Física,Paçoca,1819.0
+2023-06-01,Blumenau,Loja Física,Paçoca,2345.0
+2023-06-01,Blumenau,Loja Física,Rolhas,1967.0
+2023-06-01,Blumenau,Loja Física,Rolhas,2589.0
+2023-06-01,Florianópolis,E-commerce,Paçoca,1621.0
+2023-06-01,Florianópolis,E-commerce,Paçoca,2517.0
+2023-06-01,Florianópolis,E-commerce,Rolhas,1788.0
+2023-06-01,Florianópolis,E-commerce,Rolhas,2594.0
+2023-06-01,Florianópolis,Loja Física,Paçoca,1942.0
+2023-06-01,Florianópolis,Loja Física,Paçoca,2456.0
+2023-06-01,Florianópolis,Loja Física,Rolhas,2108.0
+2023-06-01,Florianópolis,Loja Física,Rolhas,2719.0
+2023-06-01,Joinville,E-commerce,Paçoca,1691.0
+2023-06-01,Joinville,E-commerce,Paçoca,2487.0
+2023-06-01,Joinville,E-commerce,Rolhas,1873.0
+2023-06-01,Joinville,E-commerce,Rolhas,2839.0
+2023-06-01,Joinville,Loja Física,Paçoca,2197.0
+2023-06-01,Joinville,Loja Física,Paçoca,2724.0
+2023-06-01,Joinville,Loja Física,Rolhas,2039.0
+2023-06-01,Joinville,Loja Física,Rolhas,2775.0
+2023-06-01,Rio de Janeiro,E-commerce,Paçoca,2280.0
+2023-09-01,Florianópolis,Loja Física,Paçoca,1510.0
+2024-01-01,Blumenau,E-commerce,Paçoca,1380.0
+2024-01-01,Blumenau,E-commerce,Rolhas,2340.0
+2024-01-01,Blumenau,E-commerce,Rolhas,2010.0
+2024-01-01,Blumenau,Loja Física,Paçoca,1430.0
+2024-01-01,Blumenau,Loja Física,Rolhas,2430.0
+2024-01-01,Curitiba,Loja Física,Rolhas,1990.0
+2024-01-01,Florianópolis,E-commerce,Rolhas,2190.0
+2024-01-01,Florianópolis,E-commerce,Rolhas,1670.0
+2024-01-01,Florianópolis,Loja Física,Paçoca,1620.0
+2024-01-01,Florianópolis,Loja Física,Paçoca,1730.0
+2024-01-01,Joinville,E-commerce,Paçoca,2250.0
+2024-01-01,Joinville,E-commerce,Rolhas,2780.0
+2024-01-01,Joinville,Loja Física,Paçoca,1850.0
+2024-01-01,Joinville,Loja Física,Paçoca,1540.0
+2024-01-01,Joinville,Loja Física,Rolhas,2760.0
+2024-02-01,Blumenau,Loja Física,Paçoca,750.0
+2024-02-01,Blumenau,Loja Física,Rolhas,1890.0
+2024-02-01,Blumenau,Loja Física,Rolhas,1520.0
+2024-02-01,Blumenau,Loja Física,Rolhas,2230.0
+2024-02-01,Blumenau,Loja Física,Rolhas,1750.0
+2024-02-01,Curitiba,E-commerce,Paçoca,1870.0
+2024-02-01,Florianópolis,E-commerce,Paçoca,2140.0
+2024-02-01,Florianópolis,E-commerce,Paçoca,2910.0
+2024-02-01,Florianópolis,E-commerce,Rolhas,1300.0
+2024-02-01,Florianópolis,Loja Física,Rolhas,2560.0
+2024-02-01,Joinville,E-commerce,Paçoca,2670.0
+2024-02-01,Joinville,E-commerce,Paçoca,2380.0
+2024-02-01,Joinville,E-commerce,Paçoca,2080.0
+2024-02-01,Joinville,E-commerce,Rolhas,1640.0
+2024-02-01,Joinville,Loja Física,Rolhas,1760.0
+2024-02-01,São Paulo,Loja Física,Rolhas,1420.0
+2024-03-01,Blumenau,E-commerce,Paçoca,2490.0
+2024-03-01,Blumenau,E-commerce,Paçoca,2730.0
+2024-03-01,Blumenau,E-commerce,Rolhas,2570.0
+2024-03-01,Blumenau,Loja Física,Rolhas,890.0
+2024-03-01,Florianópolis,E-commerce,Paçoca,2320.0
+2024-03-01,Florianópolis,E-commerce,Rolhas,2680.0
+2024-03-01,Florianópolis,Loja Física,Paçoca,3.0
+2024-03-01,Florianópolis,Loja Física,Rolhas,1930.0
+2024-03-01,Florianópolis,Loja Física,Rolhas,1470.0
+2024-03-01,Joinville,E-commerce,Paçoca,2150.0
+2024-03-01,Joinville,E-commerce,Rolhas,1840.0
+2024-03-01,Joinville,Loja Física,Paçoca,1390.0
+2024-03-01,Joinville,Loja Física,Rolhas,1680.0
+2024-03-01,Rio de Janeiro,E-commerce,Paçoca,2100.0
+2024-04-01,Blumenau,E-commerce,Rolhas,2810.0
+2024-04-01,Blumenau,E-commerce,Rolhas,2440.0
+2024-04-01,Blumenau,Loja Física,Paçoca,1480.0
+2024-04-01,Florianópolis,E-commerce,Rolhas,2290.0
+2024-04-01,Florianópolis,E-commerce,Rolhas,2620.0
+2024-04-01,Florianópolis,E-commerce,Rolhas,1530.0
+2024-04-01,Florianópolis,Loja Física,Paçoca,1550.0
+2024-04-01,Florianópolis,Loja Física,Rolhas,1100.0
+2024-04-01,Joinville,E-commerce,Paçoca,2750.0
+2024-04-01,Joinville,E-commerce,Rolhas,2370.0
+2024-04-01,Joinville,Loja Física,Paçoca,1730.0
+2024-04-01,Joinville,Loja Física,Paçoca,1940.0
+2024-04-01,Joinville,Loja Física,Paçoca,2870.0
+2024-04-01,Joinville,Loja Física,Rolhas,1670.0
+2024-04-01,Norte,Loja Física,Paçoca,2190.0
+2024-04-01,Sudeste,Loja Física,Paçoca,59.0
+2024-05-01,Blumenau,E-commerce,Paçoca,1830.0
+2024-05-01,Blumenau,E-commerce,Rolhas,1870.0
+2024-05-01,Blumenau,Loja Física,Paçoca,2160.0
+2024-05-01,Blumenau,Loja Física,Rolhas,1610.0
+2024-05-01,Blumenau,Loja Física,Rolhas,2910.0
+2024-05-01,Florianópolis,E-commerce,Paçoca,2780.0
+2024-05-01,Florianópolis,E-commerce,Paçoca,7.0
+2024-05-01,Florianópolis,Loja Física,Paçoca,2530.0
+2024-05-01,Florianópolis,Loja Física,Rolhas,2490.0
+2024-05-01,Joinville,E-commerce,Paçoca,1670.0
+2024-05-01,Joinville,E-commerce,Rolhas,1790.0
+2024-05-01,Joinville,E-commerce,Rolhas,1450.0
+2024-05-01,Joinville,Loja Física,Paçoca,2340.0
+2024-05-01,Joinville,Loja Física,Paçoca,2100.0
+2024-05-01,Nordeste,Loja Física,Rolhas,1380.0
+2024-05-01,Sudeste,E-commerce,Rolhas,2690.0
+2024-06-01,Blumenau,E-commerce,Paçoca,2320.0
+2024-06-01,Blumenau,Loja Física,Paçoca,2750.0
+2024-06-01,Blumenau,Loja Física,Rolhas,1960.0
+2024-06-01,Blumenau,Loja Física,Rolhas,1510.0
+2024-06-01,Florianópolis,E-commerce,Paçoca,2580.0
+2024-06-01,Florianópolis,E-commerce,Paçoca,2890.0
+2024-06-01,Florianópolis,E-commerce,Rolhas,1420.0
+2024-06-01,Florianópolis,Loja Física,Paçoca,1830.0
+2024-06-01,Florianópolis,Loja Física,Rolhas,1870.0
+2024-06-01,Joinville,E-commerce,Paçoca,2640.0
+2024-06-01,Joinville,E-commerce,Paçoca,2240.0
+2024-06-01,Joinville,E-commerce,Rolhas,2490.0
+2024-06-01,Joinville,Loja Física,Rolhas,1740.0
+2024-06-01,Joinville,Loja Física,Rolhas,670.0
+2024-06-01,Rio de Janeiro,Loja Física,Rolhas,1650.0
+2024-06-01,Sul,Loja Física,Paçoca,2310.0
+2024-06-01,Sul,Loja Física,Rolhas,2170.0
+2024-07-01,Blumenau,E-commerce,Paçoca,1690.0
+2024-07-01,Blumenau,E-commerce,Rolhas,1680.0
+2024-07-01,Blumenau,E-commerce,Rolhas,1750.0
+2024-07-01,Blumenau,Loja Física,Paçoca,2030.0
+2024-07-01,Blumenau,Loja Física,Paçoca,2290.0
+2024-07-01,Blumenau,Loja Física,Rolhas,1870.0
+2024-07-01,Centro-Oeste,Loja Física,Paçoca,2130.0
+2024-07-01,Centro-Oeste,Loja Física,Paçoca,2960.0
+2024-07-01,Florianópolis,E-commerce,Rolhas,1790.0
+2024-07-01,Florianópolis,E-commerce,Rolhas,1960.0
+2024-07-01,Florianópolis,E-commerce,Rolhas,2540.0
+2024-07-01,Florianópolis,E-commerce,Rolhas,1.0
+2024-07-01,Florianópolis,Loja Física,Paçoca,2870.0
+2024-07-01,Florianópolis,Loja Física,Paçoca,1450.0
+2024-07-01,Joinville,E-commerce,Rolhas,1530.0
+2024-07-01,Joinville,E-commerce,Rolhas,980.0
+2024-07-01,Joinville,Loja Física,Paçoca,2450.0
+2024-07-01,Joinville,Loja Física,Paçoca,2710.0
+2024-07-01,Joinville,Loja Física,Paçoca,2380.0
+2024-08-01,Blumenau,E-commerce,Paçoca,560.0
+2024-08-01,Blumenau,E-commerce,Rolhas,1870.0
+2024-08-01,Blumenau,E-commerce,Rolhas,2790.0
+2024-08-01,Blumenau,E-commerce,Rolhas,1690.0
+2024-08-01,Blumenau,Loja Física,Paçoca,2930.0
+2024-08-01,Blumenau,Loja Física,Rolhas,1920.0
+2024-08-01,Florianópolis,E-commerce,Paçoca,2350.0
+2024-08-01,Florianópolis,E-commerce,Paçoca,2480.0
+2024-08-01,Florianópolis,Loja Física,Paçoca,2590.0
+2024-08-01,Florianópolis,Loja Física,Paçoca,1470.0
+2024-08-01,Joinville,E-commerce,Paçoca,2670.0
+2024-08-01,Joinville,E-commerce,Paçoca,1840.0
+2024-08-01,Joinville,E-commerce,Rolhas,1740.0
+2024-08-01,Joinville,Loja Física,Paçoca,2210.0
+2024-08-01,Joinville,Loja Física,Paçoca,1630.0
+2024-08-01,Joinville,Loja Física,Rolhas,1580.0
+2024-08-01,Nordeste,Loja Física,Rolhas,2100.0
+2024-08-01,Rio de Janeiro,E-commerce,Paçoca,2860.0
+2024-09-01,Blumenau,E-commerce,Rolhas,2350.0
+2024-09-01,Blumenau,E-commerce,Rolhas,1680.0
+2024-09-01,Blumenau,Loja Física,Paçoca,1560.0
+2024-09-01,Blumenau,Loja Física,Paçoca,1780.0
+2024-09-01,Blumenau,Loja Física,Rolhas,2610.0
+2024-09-01,Florianópolis,E-commerce,Paçoca,1490.0
+2024-09-01,Florianópolis,E-commerce,Paçoca,1860.0
+2024-09-01,Florianópolis,E-commerce,Rolhas,2890.0
+2024-09-01,Florianópolis,E-commerce,Rolhas,2540.0
+2024-09-01,Florianópolis,Loja Física,Paçoca,2940.0
+2024-09-01,Florianópolis,Loja Física,Rolhas,2270.0
+2024-09-01,Joinville,E-commerce,Paçoca,1830.0
+2024-09-01,Joinville,Loja Física,Paçoca,1720.0
+2024-09-01,Joinville,Loja Física,Paçoca,2530.0
+2024-09-01,Joinville,Loja Física,Paçoca,5.0
+2024-09-01,Joinville,Loja Física,Rolhas,2740.0
+2024-09-01,Nordeste,E-commerce,Rolhas,2120.0
+2024-09-01,Norte,E-commerce,Rolhas,1390.0
+2024-09-01,Sul,Loja Física,Rolhas,987.0
+2024-10-01,Blumenau,E-commerce,Paçoca,1730.0
+2024-10-01,Blumenau,E-commerce,Rolhas,2180.0
+2024-10-01,Blumenau,E-commerce,Rolhas,2810.0
+2024-10-01,Blumenau,Loja Física,Paçoca,1930.0
+2024-10-01,Florianópolis,E-commerce,Rolhas,2670.0
+2024-10-01,Florianópolis,E-commerce,Rolhas,2200.0
+2024-10-01,Florianópolis,Loja Física,Paçoca,1760.0
+2024-10-01,Florianópolis,Loja Física,Paçoca,1670.0
+2024-10-01,Florianópolis,Loja Física,Rolhas,1580.0
+2024-10-01,Joinville,E-commerce,Paçoca,2850.0
+2024-10-01,Joinville,E-commerce,Rolhas,2490.0
+2024-10-01,Joinville,E-commerce,Rolhas,2340.0
+2024-10-01,Joinville,Loja Física,Paçoca,1540.0
+2024-10-01,Joinville,Loja Física,Rolhas,2560.0
+2024-10-01,Rio de Janeiro,Loja Física,Paçoca,1890.0
+2024-10-01,São Paulo,E-commerce,Paçoca,2410.0
+2024-10-01,São Paulo,Loja Física,Rolhas,1470.0
+2024-11-01,Blumenau,E-commerce,Rolhas,1510.0
+2024-11-01,Blumenau,Loja Física,Paçoca,1850.0
+2024-11-01,Blumenau,Loja Física,Paçoca,1670.0
+2024-11-01,Blumenau,Loja Física,Rolhas,2570.0
+2024-11-01,Blumenau,Loja Física,Rolhas,2380.0
+2024-11-01,Florianópolis,E-commerce,Paçoca,1940.0
+2024-11-01,Florianópolis,E-commerce,Paçoca,1820.0
+2024-11-01,Florianópolis,E-commerce,Rolhas,2490.0
+2024-11-01,Florianópolis,E-commerce,Rolhas,2.0
+2024-11-01,Florianópolis,Loja Física,Rolhas,2230.0
+2024-11-01,Florianópolis,Loja Física,Rolhas,2190.0
+2024-11-01,Joinville,E-commerce,Paçoca,1790.0
+2024-11-01,Joinville,E-commerce,Paçoca,1560.0
+2024-11-01,Joinville,E-commerce,Paçoca,930.0
+2024-11-01,Joinville,Loja Física,Paçoca,2830.0
+2024-11-01,Joinville,Loja Física,Rolhas,2710.0
+2024-11-01,Joinville,Loja Física,Rolhas,2640.0
+2024-11-01,Nordeste,Loja Física,Paçoca,2960.0
+2024-12-01,Blumenau,E-commerce,Paçoca,1650.0
+2024-12-01,Blumenau,E-commerce,Paçoca,1490.0
+2024-12-01,Blumenau,E-commerce,Rolhas,1940.0
+2024-12-01,Blumenau,Loja Física,Paçoca,2590.0
+2024-12-01,Blumenau,Loja Física,Paçoca,2540.0
+2024-12-01,Blumenau,Loja Física,Rolhas,1520.0
+2024-12-01,Florianópolis,E-commerce,Paçoca,2840.0
+2024-12-01,Florianópolis,E-commerce,Rolhas,1890.0
+2024-12-01,Florianópolis,Loja Física,Paçoca,2710.0
+2024-12-01,Florianópolis,Loja Física,Rolhas,2870.0
+2024-12-01,Joinville,E-commerce,Paçoca,2960.0
+2024-12-01,Joinville,E-commerce,Paçoca,1760.0
+2024-12-01,Joinville,E-commerce,Rolhas,1830.0
+2024-12-01,Joinville,Loja Física,Paçoca,2380.0
+2024-12-01,Joinville,Loja Física,Rolhas,1670.0
+2024-12-01,Joinville,Loja Física,Rolhas,480.0
+2024-12-01,Sudeste,E-commerce,Rolhas,89.0
+2024-12-01,Sul,E-commerce,Paçoca,2230.0
+2024-12-01,Sul,Loja Física,Rolhas,2310.0
+2025-01-01,Blumenau,E-commerce,Paçoca,1710.0
+2025-01-01,Blumenau,E-commerce,Rolhas,1830.0
+2025-01-01,Blumenau,E-commerce,Rolhas,1349.0
+2025-01-01,Blumenau,E-commerce,Rolhas,2773.0
+2025-01-01,Florianópolis,E-commerce,Rolhas,1670.0
+2025-01-01,Florianópolis,E-commerce,Rolhas,1383.0
+2025-01-01,Florianópolis,E-commerce,Rolhas,159.0
+2025-01-01,Florianópolis,Loja Física,Paçoca,2540.0
+2025-01-01,Joinville,E-commerce,Rolhas,2685.0
+2025-01-01,Joinville,Loja Física,Paçoca,1520.0
+2025-01-01,Joinville,Loja Física,Paçoca,1300.0
+2025-01-01,Joinville,Loja Física,Paçoca,2390.0
+2025-02-01,Blumenau,E-commerce,Rolhas,2100.0
+2025-02-01,Blumenau,E-commerce,Rolhas,2340.0
+2025-02-01,Blumenau,E-commerce,Rolhas,2150.0
+2025-02-01,Blumenau,Loja Física,Paçoca,2120.0
+2025-02-01,Blumenau,Loja Física,Rolhas,1411.0
+2025-02-01,Florianópolis,E-commerce,Paçoca,1897.0
+2025-02-01,Florianópolis,E-commerce,Paçoca,1313.0
+2025-02-01,Florianópolis,E-commerce,Paçoca,2590.0
+2025-02-01,Florianópolis,E-commerce,Rolhas,1741.0
+2025-02-01,Florianópolis,Loja Física,Paçoca,1614.0
+2025-02-01,Florianópolis,Loja Física,Paçoca,1544.0
+2025-02-01,Florianópolis,Loja Física,Rolhas,1817.0
+2025-02-01,Florianópolis,Loja Física,Rolhas,1872.0
+2025-02-01,Florianópolis,Loja Física,Rolhas,2560.0
+2025-02-01,Joinville,E-commerce,Paçoca,1784.0
+2025-02-01,Joinville,Loja Física,Paçoca,53.0
+2025-02-01,São Paulo,E-commerce,Rolhas,1760.0
+2025-03-01,Blumenau,E-commerce,Rolhas,2558.0
+2025-03-01,Blumenau,Loja Física,Paçoca,1302.0
+2025-03-01,Florianópolis,Loja Física,Paçoca,2722.0
+2025-03-01,Florianópolis,Loja Física,Paçoca,1780.0
+2025-03-01,Florianópolis,Loja Física,Paçoca,1690.0
+2025-03-01,Florianópolis,Loja Física,Rolhas,500.0
+2025-03-01,Joinville,E-commerce,Paçoca,1480.0
+2025-03-01,Joinville,E-commerce,Rolhas,1980.0
+2025-03-01,Joinville,Loja Física,Paçoca,2379.0
+2025-03-01,Rio de Janeiro,Loja Física,Paçoca,2100.0
+2025-03-01,São Paulo,E-commerce,Rolhas,556.0
+2025-04-01,Blumenau,E-commerce,Paçoca,10.0
+2025-04-01,Blumenau,E-commerce,Rolhas,2783.0
+2025-04-01,Blumenau,E-commerce,Rolhas,2612.0
+2025-04-01,Blumenau,Loja Física,Rolhas,2161.0
+2025-04-01,Blumenau,Loja Física,Rolhas,1.0
+2025-04-01,Blumenau,Loja Física,Rolhas,2930.0
+2025-04-01,Curitiba,E-commerce,Rolhas,1490.0
+2025-04-01,Florianópolis,E-commerce,Rolhas,1702.0
+2025-04-01,Florianópolis,Loja Física,Rolhas,2618.0
+2025-04-01,Florianópolis,Loja Física,Rolhas,2576.0
+2025-04-01,Joinville,E-commerce,Paçoca,1514.0
+2025-04-01,Joinville,E-commerce,Paçoca,2100.0
+2025-04-01,Joinville,E-commerce,Paçoca,1200.0
+2025-04-01,Joinville,E-commerce,Rolhas,2667.0
+2025-04-01,Joinville,E-commerce,Rolhas,1419.0
+2025-04-01,Joinville,E-commerce,Rolhas,2854.0
+2025-04-01,Joinville,Loja Física,Paçoca,2890.0
+2025-04-01,Joinville,Loja Física,Paçoca,1345.0
+2025-04-01,Joinville,Loja Física,Rolhas,2310.0
+2025-05-01,Blumenau,E-commerce,Paçoca,1450.0
+2025-05-01,Blumenau,E-commerce,Rolhas,912.0
+2025-05-01,Blumenau,Loja Física,Rolhas,1900.0
+2025-05-01,Blumenau,Loja Física,Rolhas,870.0
+2025-05-01,Florianópolis,E-commerce,Paçoca,1269.0
+2025-05-01,Florianópolis,E-commerce,Paçoca,1862.0
+2025-05-01,Florianópolis,E-commerce,Paçoca,2068.0
+2025-05-01,Florianópolis,E-commerce,Paçoca,2.0
+2025-05-01,Florianópolis,E-commerce,Paçoca,1670.0
+2025-05-01,Florianópolis,E-commerce,Rolhas,1762.0
+2025-05-01,Florianópolis,Loja Física,Paçoca,1634.0
+2025-05-01,Florianópolis,Loja Física,Paçoca,2261.0
+2025-05-01,Florianópolis,Loja Física,Paçoca,2945.0
+2025-05-01,Florianópolis,Loja Física,Rolhas,759.0
+2025-05-01,Joinville,E-commerce,Paçoca,1803.0
+2025-05-01,Joinville,Loja Física,Paçoca,2595.0
+2025-05-01,Joinville,Loja Física,Paçoca,1783.0
+2025-05-01,Joinville,Loja Física,Rolhas,2417.0
+2025-05-01,Norte,Loja Física,Paçoca,2280.0
+2025-06-01,Blumenau,E-commerce,Paçoca,1212.0
+2025-06-01,Blumenau,E-commerce,Rolhas,2054.0
+2025-06-01,Blumenau,Loja Física,Paçoca,1393.0
+2025-06-01,Blumenau,Loja Física,Rolhas,2518.0
+2025-06-01,Florianópolis,E-commerce,Paçoca,2300.0
+2025-06-01,Florianópolis,E-commerce,Rolhas,2450.0
+2025-06-01,Florianópolis,Loja Física,Rolhas,1543.0
+2025-06-01,Florianópolis,Loja Física,Rolhas,2080.0
+2025-06-01,Joinville,E-commerce,Paçoca,1479.0
+2025-06-01,Joinville,Loja Física,Paçoca,2334.0
+2025-06-01,Joinville,Loja Física,Paçoca,1820.0
+2025-06-01,Joinville,Loja Física,Rolhas,5.0
+2025-06-01,Joinville,Loja Física,Rolhas,2240.0
+2025-06-01,Sul,E-commerce,Rolhas,1950.0
+2025-07-01,Blumenau,E-commerce,Paçoca,2385.0
+2025-07-01,Blumenau,E-commerce,Paçoca,1800.0
+2025-07-01,Blumenau,E-commerce,Rolhas,2390.0
+2025-07-01,Blumenau,Loja Física,Paçoca,1530.0
+2025-07-01,Blumenau,Loja Física,Rolhas,2256.0
+2025-07-01,Florianópolis,E-commerce,Paçoca,1023.0
+2025-07-01,Florianópolis,E-commerce,Rolhas,2116.0
+2025-07-01,Florianópolis,Loja Física,Rolhas,2780.0
+2025-07-01,Joinville,E-commerce,Paçoca,1806.0
+2025-07-01,Joinville,E-commerce,Paçoca,1760.0
+2025-07-01,Joinville,Loja Física,Paçoca,1411.0
+2025-07-01,Joinville,Loja Física,Rolhas,1650.0
+2025-07-01,Joinville,Loja Física,Rolhas,150.0
+2025-07-01,Nordeste,Loja Física,Paçoca,2710.0
+2025-08-01,Blumenau,E-commerce,Paçoca,2200.0
+2025-08-01,Blumenau,E-commerce,Paçoca,990.0
+2025-08-01,Blumenau,Loja Física,Rolhas,2490.0
+2025-08-01,Centro-Oeste,E-commerce,Rolhas,1380.0
+2025-08-01,Florianópolis,E-commerce,Rolhas,2370.0
+2025-08-01,Florianópolis,E-commerce,Rolhas,2780.0
+2025-08-01,Florianópolis,Loja Física,Paçoca,1415.0
+2025-08-01,Florianópolis,Loja Física,Paçoca,1560.0
+2025-08-01,Florianópolis,Loja Física,Rolhas,2350.0
+2025-08-01,Joinville,E-commerce,Rolhas,1470.0
+2025-08-01,Joinville,Loja Física,Paçoca,2925.0
+2025-08-01,Joinville,Loja Física,Rolhas,1918.0
+2025-08-01,Joinville,Loja Física,Rolhas,2505.0
+2025-09-01,Blumenau,E-commerce,Paçoca,1725.0
+2025-09-01,Blumenau,E-commerce,Rolhas,1514.0
+2025-09-01,Florianópolis,E-commerce,Paçoca,1320.0
+2025-09-01,Florianópolis,Loja Física,Rolhas,1430.0
+2025-09-01,Joinville,E-commerce,Paçoca,2331.0
+2025-09-01,Joinville,E-commerce,Paçoca,1184.0
+2025-09-01,Joinville,E-commerce,Paçoca,1640.0
+2025-09-01,Joinville,E-commerce,Rolhas,2710.0
+2025-09-01,Joinville,Loja Física,Paçoca,1420.0
+2025-09-01,Sudeste,Loja Física,Paçoca,2460.0
+2025-09-01,Sudeste,Loja Física,Rolhas,1750.0
+2025-10-01,Blumenau,E-commerce,Paçoca,2714.0
+2025-10-01,Blumenau,E-commerce,Paçoca,1136.0
+2025-10-01,Blumenau,E-commerce,Paçoca,2991.0
+2025-10-01,Blumenau,E-commerce,Rolhas,2271.0
+2025-10-01,Blumenau,E-commerce,Rolhas,2650.0
+2025-10-01,Blumenau,Loja Física,Paçoca,1015.0
+2025-10-01,Blumenau,Loja Física,Paçoca,1340.0
+2025-10-01,Blumenau,Loja Física,Rolhas,2732.0
+2025-10-01,Blumenau,Loja Física,Rolhas,2470.0
+2025-10-01,Florianópolis,Loja Física,Rolhas,1002.0
+2025-10-01,Florianópolis,Loja Física,Rolhas,1995.0
+2025-10-01,Joinville,E-commerce,Paçoca,2750.0
+2025-10-01,Joinville,E-commerce,Paçoca,2340.0
+2025-10-01,Joinville,E-commerce,Rolhas,2143.0
+2025-10-01,Joinville,Loja Física,Paçoca,1704.0
+2025-10-01,Joinville,Loja Física,Paçoca,2973.0
+2025-10-01,Joinville,Loja Física,Paçoca,1372.0
+2025-10-01,Joinville,Loja Física,Rolhas,2579.0
+2025-10-01,Joinville,Loja Física,Rolhas,1375.0
+2025-10-01,Joinville,Loja Física,Rolhas,1709.0
+2025-10-01,Joinville,Loja Física,Rolhas,1389.0
+2025-10-01,Joinville,Loja Física,Rolhas,2630.0
+2025-11-01,Blumenau,E-commerce,Paçoca,1540.0
+2025-11-01,Blumenau,E-commerce,Rolhas,1620.0
+2025-11-01,Blumenau,Loja Física,Paçoca,1870.0
+2025-11-01,Blumenau,Loja Física,Rolhas,1376.0
+2025-11-01,Florianópolis,E-commerce,Paçoca,1426.0
+2025-11-01,Florianópolis,E-commerce,Paçoca,1752.0
+2025-11-01,Florianópolis,E-commerce,Paçoca,2440.0
+2025-11-01,Florianópolis,E-commerce,Paçoca,2980.0
+2025-11-01,Florianópolis,E-commerce,Paçoca,1390.0
+2025-11-01,Florianópolis,Loja Física,Paçoca,1860.0
+2025-11-01,Florianópolis,Loja Física,Rolhas,2549.0
+2025-11-01,Florianópolis,Loja Física,Rolhas,1242.0
+2025-11-01,Joinville,E-commerce,Rolhas,2979.0
+2025-11-01,Joinville,Loja Física,Paçoca,1332.0
+2025-11-01,Joinville,Loja Física,Paçoca,900.0
+2025-11-01,Joinville,Loja Física,Paçoca,1581.0
+2025-11-01,Joinville,Loja Física,Rolhas,2977.0
+2025-12-01,Blumenau,E-commerce,Rolhas,2554.0
+2025-12-01,Blumenau,Loja Física,Rolhas,2116.0
+2025-12-01,Florianópolis,E-commerce,Rolhas,2960.0
+2025-12-01,Florianópolis,Loja Física,Paçoca,2870.0
+2025-12-01,Florianópolis,Loja Física,Rolhas,1997.0
+2025-12-01,Florianópolis,Loja Física,Rolhas,2297.0
+2025-12-01,Joinville,E-commerce,Paçoca,2853.0
+2025-12-01,Joinville,E-commerce,Rolhas,2190.0
+2025-12-01,Joinville,Loja Física,Paçoca,2425.0
+2025-12-01,Joinville,Loja Física,Rolhas,1750.0
+2025-12-01,Joinville,Loja Física,Rolhas,2820.0
+2025-12-01,Rio de Janeiro,Loja Física,Rolhas,2890.0
+2026-01-01,Blumenau,E-commerce,Paçoca,1437.0
+2026-01-01,Blumenau,E-commerce,Paçoca,1876.0
+2026-01-01,Blumenau,E-commerce,Rolhas,2094.0
+2026-01-01,Blumenau,E-commerce,Rolhas,1721.0
+2026-01-01,Blumenau,Loja Física,Paçoca,1849.0
+2026-01-01,Blumenau,Loja Física,Paçoca,1563.0
+2026-01-01,Blumenau,Loja Física,Rolhas,2217.0
+2026-01-01,Blumenau,Loja Física,Rolhas,1958.0
+2026-01-01,Florianópolis,E-commerce,Paçoca,1548.0
+2026-01-01,Florianópolis,E-commerce,Paçoca,1982.0
+2026-01-01,Florianópolis,E-commerce,Rolhas,2187.0
+2026-01-01,Florianópolis,E-commerce,Rolhas,1635.0
+2026-01-01,Florianópolis,Loja Física,Paçoca,1928.0
+2026-01-01,Florianópolis,Loja Física,Paçoca,1672.0
+2026-01-01,Florianópolis,Loja Física,Rolhas,2369.0
+2026-01-01,Florianópolis,Loja Física,Rolhas,2013.0
+2026-01-01,Joinville,E-commerce,Paçoca,1679.0
+2026-01-01,Joinville,E-commerce,Paçoca,2034.0
+2026-01-01,Joinville,E-commerce,Rolhas,2541.0
+2026-01-01,Joinville,E-commerce,Rolhas,1462.0
+2026-01-01,Joinville,Loja Física,Paçoca,2143.0
+2026-01-01,Joinville,Loja Física,Paçoca,1768.0
+2026-01-01,Joinville,Loja Física,Rolhas,2387.0
+2026-01-01,Joinville,Loja Física,Rolhas,1925.0
+2026-02-01,Blumenau,E-commerce,Paçoca,1493.0
+2026-02-01,Blumenau,E-commerce,Paçoca,1938.0
+2026-02-01,Blumenau,E-commerce,Rolhas,2165.0
+2026-02-01,Blumenau,E-commerce,Rolhas,1794.0
+2026-02-01,Blumenau,Loja Física,Paçoca,1917.0
+2026-02-01,Blumenau,Loja Física,Paçoca,1641.0
+2026-02-01,Blumenau,Loja Física,Rolhas,2296.0
+2026-02-01,Blumenau,Loja Física,Rolhas,2012.0
+2026-02-01,Florianópolis,E-commerce,Paçoca,1617.0
+2026-02-01,Florianópolis,E-commerce,Paçoca,2051.0
+2026-02-01,Florianópolis,E-commerce,Rolhas,2243.0
+2026-02-01,Florianópolis,E-commerce,Rolhas,1698.0
+2026-02-01,Florianópolis,Loja Física,Paçoca,1994.0
+2026-02-01,Florianópolis,Loja Física,Paçoca,1736.0
+2026-02-01,Florianópolis,Loja Física,Rolhas,2438.0
+2026-02-01,Florianópolis,Loja Física,Rolhas,2089.0
+2026-02-01,Joinville,E-commerce,Paçoca,1735.0
+2026-02-01,Joinville,E-commerce,Paçoca,2146.0
+2026-02-01,Joinville,E-commerce,Rolhas,2593.0
+2026-02-01,Joinville,E-commerce,Rolhas,1528.0
+2026-02-01,Joinville,Loja Física,Paçoca,2236.0
+2026-02-01,Joinville,Loja Física,Paçoca,1894.0
+2026-02-01,Joinville,Loja Física,Rolhas,2475.0
+2026-02-01,Joinville,Loja Física,Rolhas,2107.0
+2026-03-01,Blumenau,E-commerce,Paçoca,1554.0
+2026-03-01,Blumenau,E-commerce,Paçoca,1997.0
+2026-03-01,Blumenau,E-commerce,Rolhas,2226.0
+2026-03-01,Blumenau,E-commerce,Rolhas,1842.0
+2026-03-01,Blumenau,Loja Física,Paçoca,1983.0
+2026-03-01,Blumenau,Loja Física,Paçoca,1719.0
+2026-03-01,Blumenau,Loja Física,Rolhas,2361.0
+2026-03-01,Blumenau,Loja Física,Rolhas,2078.0
+2026-03-01,Florianópolis,E-commerce,Paçoca,1678.0
+2026-03-01,Florianópolis,E-commerce,Paçoca,2114.0
+2026-03-01,Florianópolis,E-commerce,Rolhas,2298.0
+2026-03-01,Florianópolis,E-commerce,Rolhas,1761.0
+2026-03-01,Florianópolis,Loja Física,Paçoca,2052.0
+2026-03-01,Florianópolis,Loja Física,Paçoca,1798.0
+2026-03-01,Florianópolis,Loja Física,Rolhas,2513.0
+2026-03-01,Florianópolis,Loja Física,Rolhas,2147.0
+2026-03-01,Joinville,E-commerce,Paçoca,1789.0
+2026-03-01,Joinville,E-commerce,Paçoca,2218.0
+2026-03-01,Joinville,E-commerce,Rolhas,2667.0
+2026-03-01,Joinville,E-commerce,Rolhas,1581.0
+2026-03-01,Joinville,Loja Física,Paçoca,2315.0
+2026-03-01,Joinville,Loja Física,Paçoca,1972.0
+2026-03-01,Joinville,Loja Física,Rolhas,2534.0
+2026-03-01,Joinville,Loja Física,Rolhas,2186.0
+2026-04-01,Blumenau,E-commerce,Paçoca,1629.0
+2026-04-01,Blumenau,E-commerce,Paçoca,2076.0
+2026-04-01,Blumenau,E-commerce,Rolhas,2297.0
+2026-04-01,Blumenau,E-commerce,Rolhas,1893.0
+2026-04-01,Blumenau,Loja Física,Paçoca,2051.0
+2026-04-01,Blumenau,Loja Física,Paçoca,1786.0
+2026-04-01,Blumenau,Loja Física,Rolhas,2438.0
+2026-04-01,Blumenau,Loja Física,Rolhas,2135.0
+2026-04-01,Florianópolis,E-commerce,Paçoca,1734.0
+2026-04-01,Florianópolis,E-commerce,Paçoca,2192.0
+2026-04-01,Florianópolis,E-commerce,Rolhas,2365.0
+2026-04-01,Florianópolis,E-commerce,Rolhas,1817.0
+2026-04-01,Florianópolis,Loja Física,Paçoca,2127.0
+2026-04-01,Florianópolis,Loja Física,Paçoca,1859.0
+2026-04-01,Florianópolis,Loja Física,Rolhas,2582.0
+2026-04-01,Florianópolis,Loja Física,Rolhas,2204.0
+2026-04-01,Joinville,E-commerce,Paçoca,1846.0
+2026-04-01,Joinville,E-commerce,Paçoca,2283.0
+2026-04-01,Joinville,E-commerce,Rolhas,2724.0
+2026-04-01,Joinville,E-commerce,Rolhas,1639.0
+2026-04-01,Joinville,Loja Física,Paçoca,2387.0
+2026-04-01,Joinville,Loja Física,Paçoca,2045.0
+2026-04-01,Joinville,Loja Física,Rolhas,2619.0
+2026-04-01,Joinville,Loja Física,Rolhas,2234.0
